@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente trabalho como analista desenvolvedor
 - 👨🏻‍💻 Sou desenvolvedor full-stack (Java | Angular)
-- 🤖 Faço automação robótica de processos (RPA)
+- 🤖 Atuo também com automação robótica de processos (RPA)
 - 🗃  Metodologia ágil (Scrum)
 - 💭 Sempre buscando aprender e melhorar
 

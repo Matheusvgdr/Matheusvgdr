@@ -22,7 +22,7 @@
     <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Math-CSS" height="60" width="70" src="https://www.svgrepo.com/show/374049/robotframework.svg">
     <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-    <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  
 </div>
 <hr>
 <div >
@@ -35,6 +35,8 @@
 **Matheusvgdr/Matheusvgdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+  <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

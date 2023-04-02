@@ -2,7 +2,7 @@
 <hr>
 
 - 🌱 Atualmente trabalho como analista desenvolvedor
-- 👨🏻‍💻 Sou desenvolvedor full-stack (Java / Angular)
+- 👨🏻‍💻 Sou desenvolvedor full-stack (Java | Angular)
 - 🤖 Faço automação robótica de processos (RPA)
 - 🗃  Metodologia ágil (Scrum)
 - 💭 Sempre buscando aprender e melhorar
@@ -22,7 +22,6 @@
     <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
     <img align="center" alt="Math-CSS" height="60" width="70" src="https://www.svgrepo.com/show/374049/robotframework.svg">
     <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-    <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Math-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <hr>
@@ -32,9 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusvgdr&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
-  
-
-
 <!--
 **Matheusvgdr/Matheusvgdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
